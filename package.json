@@ -1,0 +1,29 @@
+{
+  "name": "hindi-bad-words",
+  "version": "1.0.2",
+  "description": "A small Node.js module for detecting and cleaning profanity in Hindi, English, French, German, Italian and Spanish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curse",
+    "profanity",
+    "censor",
+    "bad-words",
+    "bad-words-hindi",
+    "filter",
+    "profanity-hindi-blocker",
+    "hindi-bad-words"
+  ],
+  "author": "Shoaib Mirza",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShoaibMirzaa/hindi-bad-words.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShoaibMirzaa/hindi-bad-words/issues"
+  },
+  "homepage": "https://github.com/ShoaibMirzaa/hindi-bad-words#readme"
+}
